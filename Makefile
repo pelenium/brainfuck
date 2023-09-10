@@ -1,3 +1,3 @@
 build:
-	go build -o main.exe
-	./main.exe example.bf
+	go build -o brainfuck.exe
+	./brainfuck.exe example.bf
